@@ -1,6 +1,6 @@
 class Simple{
         public static void main(String args[]){
 
-                System.out.println("Welcome to AWS Cloud Practice portal");
+                System.out.println("Welcome to AWS Cloud Practice0 Server");
         }
 }
